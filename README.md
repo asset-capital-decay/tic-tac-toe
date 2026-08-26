@@ -10,7 +10,7 @@ Click [here](https://www.theodinproject.com/paths/full-stack-javascript/courses/
 
 ## Live project demo
 
-:point_right: https://spghtti.github.io/tic-tac-toe/ :point_left:
+:point_right: https://asset-capital-decay.github.io/tic-tac-toe/ :point_left:
 
 ## Built With
 
